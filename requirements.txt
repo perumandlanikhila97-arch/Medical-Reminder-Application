@@ -1,0 +1,12 @@
+# Medical Reminder Application
+# Python 3.8+
+
+# No external dependencies required.
+# Uses only Python Standard Library modules:
+# tkinter
+# threading
+# json
+# csv
+# datetime
+# os
+# time

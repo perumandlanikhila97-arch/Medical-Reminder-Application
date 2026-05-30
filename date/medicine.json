@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Aspirin",
+    "dose": "100mg",
+    "times": [
+      "08:00",
+      "20:00"
+    ],
+    "notes": "Take with water"
+  },
+  {
+    "name": "Metformin",
+    "dose": "500mg",
+    "times": [
+      "07:30"
+    ],
+    "notes": "After breakfast"
+  },
+  {
+    "name": "Lisinopril",
+    "dose": "10mg",
+    "times": [
+      "09:00"
+    ],
+    "notes": "Take daily"
+  },
+  {
+    "name": "Vitamin D",
+    "dose": "1000IU",
+    "times": [
+      "12:00",
+      "18:00"
+    ],
+    "notes": "Optional"
+  }
+]
